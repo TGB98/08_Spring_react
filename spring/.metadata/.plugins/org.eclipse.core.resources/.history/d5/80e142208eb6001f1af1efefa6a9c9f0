@@ -1,9 +1,0 @@
-spring.application.name=boardproject-admin-server
-
-#Spring devTools 관련 설정.
-
-
-#로깅 레벨 지정.
-
-
-#URL에 jsessionId가 보여질 때 jsessionId를 쿠키에 담으라는 설정.

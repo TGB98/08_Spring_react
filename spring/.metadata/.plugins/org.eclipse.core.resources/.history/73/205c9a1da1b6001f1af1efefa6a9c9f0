@@ -1,5 +1,0 @@
-package edu.kh.admin.main.model.service;
-
-public interface AdminService {
-
-}
